@@ -1,3 +1,3 @@
 # PDB data structures
 
-Data structures extracted from A3 online episode 5 server PDB files using PDBRipper for emulator development.
+Data structures extracted from A3 online episode 5 server PDB files using PDBRipper as well Codex AI for emulator development.
